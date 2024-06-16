@@ -23,4 +23,3 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TIMEZONE: "False"
-          SECTION_NAME: "UwU"
