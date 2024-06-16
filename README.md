@@ -66,4 +66,11 @@ x4ndr0m3d4x@proton.me
 
 #### 📈 Cowde Statistacws:
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
