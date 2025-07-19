@@ -68,13 +68,13 @@ x4ndr0m3d4x@proton.me
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1,165 hrs 44 mins
+Total Time: 1,166 hrs 52 mins
 
-C#                        329 hrs 18 mins >>>>>>>------------------   26.74 %
-C++                       172 hrs 52 mins >>>>---------------------   14.04 %
+C#                        329 hrs 18 mins >>>>>>>------------------   26.72 %
+C++                       172 hrs 52 mins >>>>---------------------   14.03 %
 Rust                      98 hrs 48 mins  >>-----------------------   08.02 %
-Svelte                    94 hrs 56 mins  >>-----------------------   07.71 %
-Other                     65 hrs 36 mins  >------------------------   05.33 %
+Svelte                    96 hrs 4 mins   >>-----------------------   07.80 %
+Other                     65 hrs 36 mins  >------------------------   05.32 %
 ```
 
 <!--END_SECTION:waka-->
