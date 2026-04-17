@@ -7,7 +7,7 @@ ashley@omg.lol
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1,284 hrs 27 mins
+Total Time: 1,284 hrs 42 mins
 
 C#                        329 hrs 18 mins       >>>>>>-------------------   24.24 %
 C++                       185 hrs 40 mins       >>>----------------------   13.67 %
