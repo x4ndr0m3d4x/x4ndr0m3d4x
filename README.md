@@ -1,7 +1,7 @@
 # **Hiiii cuties! >.< ❤️**
 
 #### ✉️ Reach me here:
-ashley@omg.lol
+x4ndr0m3x4@proton.me
 
 #### 📈 Stats UwU (since 20-uhhh-22 ig):
 <!--START_SECTION:waka-->
